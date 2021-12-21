@@ -1,4 +1,5 @@
-
+<html lang="pt-BR">
+  
 <div align="center">
   <h3 align="left"> Olá, eu sou o Cleyton. É um prazer te ter aqui comigo!</h3>
   <div align="right">
@@ -13,6 +14,6 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devcleyton&layout=compact&langs_count=7&theme=gotham" target="_blank"/>
 </div>
 <br><br>
-  
+  </html>
 
   
