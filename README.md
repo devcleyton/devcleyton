@@ -1,5 +1,5 @@
 <div align="center">
-  <h3 align="left"> Olá, eu sou o Cleyton. Enorme satisfação em te você aqui comigo!</h3>
+  <h3 align="left"> Olá, eu sou o Cleyton. Enorme satisfação ter você aqui comigo!</h3>
   <div align="right">
   <a href="https://instagram.com/oliveiraa_.cleyton" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
  <a href="https://www.linkedin.com/in/cleyton-oliveira-5a3b8b14a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
